@@ -15285,7 +15285,7 @@ dayjs@1.10.4, dayjs@^1.10.3, dayjs@^1.10.4, dayjs@^1.9.3:
 de-indent@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/de-indent/-/de-indent-1.0.2.tgz#b2038e846dc33baa5796128d0804b455b8c1e21d"
-  integrity sha1-sgOOhG3DO6pXlhKNCAS0VbjB4h0=
+  integrity sha512-e/1zu3xH5MQryN2zdVaF0OrdNLUbvWxzMbi+iNA6Bky7l1RoP8a2fIbRocyHclXt/arDrrR6lL3TqFD9pMQTsg==
 
 debounce@^1.2.0:
   version "1.2.1"
@@ -26944,9 +26944,9 @@ node-abi@^2.7.0:
     semver "^5.4.1"
 
 node-abi@^3.3.0:
-  version "3.15.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.15.0.tgz#cd9ac8c58328129b49998cc6fa16aa5506152716"
-  integrity sha512-Ic6z/j6I9RLm4ov7npo1I48UQr2BEyFCqh6p7S1dhEx9jPO0GPGq/e2Rb7x7DroQrmiVMz/Bw1vJm9sPAl2nxA==
+  version "3.30.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.30.0.tgz#d84687ad5d24ca81cdfa912a36f2c5c19b137359"
+  integrity sha512-qWO5l3SCqbwQavymOmtTVuCWZE23++S+rxyoHjXqUmPyzRcaoI4lA2gO55/drddGnedAyjA7sk76SfQ5lfUMnw==
   dependencies:
     semver "^7.3.5"
 
@@ -30351,9 +30351,9 @@ prebuild-install@^5.2.4, prebuild-install@^5.3.5:
     which-pm-runs "^1.0.0"
 
 prebuild-install@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/prebuild-install/-/prebuild-install-7.1.0.tgz#991b6ac16c81591ba40a6d5de93fb33673ac1370"
-  integrity sha512-CNcMgI1xBypOyGqjp3wOc8AAo1nMhZS3Cwd3iHIxOdAUbb+YxdNuM4Z5iIrZ8RLvOsf3F3bl7b7xGq6DjQoNYA==
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/prebuild-install/-/prebuild-install-7.1.1.tgz#de97d5b34a70a0c81334fd24641f2a1702352e45"
+  integrity sha512-jAXscXWMcCK8GgCoHOfIr0ODh5ai8mj63L2nWrjuAgXE6tDyYGnx4/8o/rCgU+B4JSyZBKbeZqzhtwtC3ovxjw==
   dependencies:
     detect-libc "^2.0.0"
     expand-template "^2.0.3"
@@ -30362,7 +30362,6 @@ prebuild-install@^7.0.0:
     mkdirp-classic "^0.5.3"
     napi-build-utils "^1.0.1"
     node-abi "^3.3.0"
-    npmlog "^4.0.1"
     pump "^3.0.0"
     rc "^1.2.7"
     simple-get "^4.0.0"
@@ -33568,14 +33567,14 @@ simple-get@^4.0.0:
     once "^1.3.1"
     simple-concat "^1.0.0"
 
-simple-git@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.4.0.tgz#dea49dfafbc16a67b26221917fca1caaeb976e4a"
-  integrity sha512-sBRdudUc1yvi0xQQPuHXc1L9gTWkRn4hP2bbc7q4BTxR502d3JJAGsDOhrmsBY+wAZAw5JLl82tx55fSWYE65w==
+simple-git@3.15.0:
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.15.0.tgz#301a95a943c4f9b0a21d051eb6e6d0ffe4c9754f"
+  integrity sha512-FiWoMPlcYHQ+ApRihUsGjC/ZmIlWj62S6MBCwOunczvXcLQt+9ZdrysDrR6QVepkRQfEAaBXrN2QtJKrN6zbtg==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
-    debug "^4.3.3"
+    debug "^4.3.4"
 
 simple-is@~0.2.0:
   version "0.2.0"
