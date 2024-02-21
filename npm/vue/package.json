@@ -23,7 +23,7 @@
     "@rollup/plugin-node-resolve": "^11.1.1",
     "@vitejs/plugin-vue": "2.3.1",
     "@vue/compiler-sfc": "3.2.31",
-    "axios": "0.21.2",
+    "axios": "0.28.0",
     "cypress": "0.0.0-development",
     "debug": "^4.3.2",
     "rollup": "^2.38.5",
